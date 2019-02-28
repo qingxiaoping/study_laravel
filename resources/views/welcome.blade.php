@@ -36,7 +36,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">这是我的地盘，一切我说了算!</div>
+                <div class="title">这是我的地盘，我想这么样就这么样!</div>
             </div>
         </div>
     </body>
